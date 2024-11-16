@@ -1,0 +1,2 @@
+SELECT * FROM homework.products;
+SELECT name,phone FROM homework.shippers;

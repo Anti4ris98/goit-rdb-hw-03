@@ -1,0 +1,3 @@
+SELECT AVG(price) FROM homework.products;
+SELECT MAX(price) FROM homework.products;
+SELECT MIN(price) FROM homework.products;

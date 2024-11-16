@@ -1,0 +1,4 @@
+SELECT DISTINCT category_id, price
+FROM homework.products
+ORDER BY price DESC
+LIMIT 10

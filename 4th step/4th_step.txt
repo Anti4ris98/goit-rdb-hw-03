@@ -1,0 +1,2 @@
+SELECT COUNT(id) from homework.products
+WHERE price>20 and price<100;
